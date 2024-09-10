@@ -5,7 +5,7 @@ Welcome to the **Responsive Coffee Website Design** project! 🌐 This is a mode
 ## 🖼️ Preview
 
 ![Coffee Website Preveiw](https://github.com/Sakshisingh-BV/Coffee_Website-WebD-Project-/blob/main/website%20image..png?raw=true)
-*Here's a glimpse of the website design. Click the image for a larger view.*
+*Here's a glimpse of the website design.*
 
 ## 🌟 Features
 
@@ -20,9 +20,3 @@ To experience the website live, please visit: https://tanjore.netlify.app/🌐
 ## 💻 Important Note
 
 For the best experience, we recommend opening the project on a **PC**. Some features may not be fully optimized for mobile devices.
-
-## 📁 Installation
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/coffee-website-design.git

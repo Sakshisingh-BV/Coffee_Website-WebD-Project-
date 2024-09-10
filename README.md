@@ -4,7 +4,7 @@ Welcome to the **Responsive Coffee Website Design** project! 🌐 This is a mode
 
 ## 🖼️ Preview
 
-!["C:\Users\saksh\Downloads\website image..png"]
+![Coffee Website Preveiw](https://github.com/Sakshisingh-BV/Coffee_Website-WebD-Project-/blob/main/website%20image..png?raw=true)
 *Here's a glimpse of the website design. Click the image for a larger view.*
 
 ## 🌟 Features

@@ -19,4 +19,4 @@ To experience the website live, please visit: https://tanjore.netlify.app/🌐
 
 ## 💻 Important Note
 
-For the best experience, we recommend opening the project on a **PC**. Some features may not be fully optimized for mobile devices.
+For the best experience, I recommend opening the project on a **PC**as some features may not be fully optimized for mobile devices.
